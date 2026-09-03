@@ -23,7 +23,7 @@
 name: AIoniser
 role: Software Developer
 location: Earth
-currently_building: Aperture_Website
+currently_building: A club/community website (Aperture)
 currently_learning: Advanced React & Next.js
 looking_to_collaborate_on: Open Source Projects
 fun_fact: I love building awesome things!
@@ -46,35 +46,7 @@ fun_fact: I love building awesome things!
 
 <br />
 
-<!-- GitHub Stats & Top Languages -->
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIoniser&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIoniser&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<!-- Streak Stats -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AIoniser&theme=radical" alt="GitHub Streak" />
-</div>
-
-<!-- Activity Graph -->
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AIoniser&theme=radical" alt="Activity Graph" />
-</div>
-
-<!-- Trophy Row -->
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AIoniser&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<!-- 3D Contribution Calendar -->
-### 🧊 3D Contribution Calendar
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AIoniser/AIoniser/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" />
-</div>
+<!-- Re-add stats/trophies/streaks once I have a few weeks of real commit history -->
 
 <!-- Snake Animation -->
 ### 🐍 Contribution Snake
@@ -129,26 +101,21 @@ fun_fact: I love building awesome things!
 </details>
 
 <details>
-  <summary><b>🏅 Achievements & Milestones</b></summary>
-  <br />
-  <ul>
-    <li>✅ Created my awesome new GitHub profile</li>
-    <li>🚀 Shipped Aperture_Website</li>
-    <li>... Add more milestones here! ...</li>
-  </ul>
-</details>
-
-<details>
   <summary><b>🗺️ Roadmap</b></summary>
   <br />
   
 ```mermaid
 timeline
-    title My Roadmap
-    Q1 : Ship first major project
-    Q2 : Contribute to open source
-    Q3 : Learn new tools/frameworks
-    Q4 : Build something bigger
+    title 🚀 My Developer Roadmap
+    section 2026 Goals
+    Q1 : 🌟 Ship Aperture Community Platform
+       : 🐛 Polish and fix bugs
+    Q2 : 🤝 Start contributing to Open Source
+       : 📚 Master advanced Next.js patterns
+    Q3 : 🛠️ Build a full-stack SaaS project
+       : 🌐 Learn a new backend language (Go/Rust)
+    Q4 : 🎯 Launch portfolio and blog
+       : 🚀 Reach 100+ GitHub contributions
 ```
 </details>
 
