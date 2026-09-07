@@ -56,36 +56,15 @@ fun_fact: I love building awesome things!
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake.svg">
   </picture>
+  <br/><br/>
+  <a href="https://github.com/AIoniser/AIoniser/actions/workflows/snake.yml">
+    <img src="https://img.shields.io/badge/🔄_Update_Snake_Now-238636?style=for-the-badge&logo=github&logoColor=white" alt="Update Snake Now" />
+  </a>
 </div>
 
 <br />
 
-<!-- Pinned Projects -->
-### 📌 Pinned Projects
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/AIoniser/Aperture_Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AIoniser&repo=Aperture_Website&theme=radical" alt="Aperture_Website" />
-        </a>
-      </td>
-      <td width="50%">
-        <!-- Space reserved for future project -->
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <!-- Space reserved for future project -->
-      </td>
-      <td width="50%">
-        <!-- Space reserved for future project -->
-      </td>
-    </tr>
-  </table>
-</div>
 
-<br />
 
 <!-- Collapsible Sections -->
 ### 📝 More About Me
