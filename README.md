@@ -51,14 +51,12 @@ fun_fact: I love building awesome things!
 <!-- Snake Animation -->
 ### 🐍 Contribution Snake
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/><br/>
   <a href="https://github.com/AIoniser/AIoniser/actions/workflows/snake.yml">
-    <img src="https://img.shields.io/badge/🔄_Update_Snake_Now-238636?style=for-the-badge&logo=github&logoColor=white" alt="Update Snake Now" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AIoniser/AIoniser/output/github-contribution-grid-snake.svg">
+    </picture>
   </a>
 </div>
 
